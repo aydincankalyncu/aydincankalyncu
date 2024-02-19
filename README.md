@@ -1,6 +1,6 @@
 ### Hi there It's Aydıncan 👋
-- 🔭 I’m currently working on Arvento Mobile Systems.
-- 🌱 I’m currently learning for backend: NodeJS, NestJS; for frontend: React, VueJS 
+- 🔭 I’m currently working on Wisersense Information Tehnologies.
+- 🌱 I’m currently learning for backend: NodeJS, NestJS; for frontend: React 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayd%C4%B1ncan-kalyoncu-045869163)
 
 ## 🔧 Technologies & Tools
